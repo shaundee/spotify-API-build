@@ -47,6 +47,9 @@
   "spotify-web-api-node": "^5.0.2",
   
     
+  "superagent": "^7.1.1",
+  
+    
   "tailwind-scrollbar-hide": "^1.1.7"
   
   },

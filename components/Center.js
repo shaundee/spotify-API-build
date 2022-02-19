@@ -50,6 +50,7 @@ console.log(playlist)
          src={session?.user.image}
          alt='' 
          />
+         
         <h2> {session?.user.name}</h2>
        <ChevronDownIcon className='h-5 w-5'/>
           </div>
