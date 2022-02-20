@@ -17,11 +17,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 #Installation
 
 * For the app to function properly you will need to create a .env file within the root directory of the application. 
-* Copy the follong code but with your own credentials that you get from https://developer.spotify.com/ 
+* Copy the code below into the .env file but with your own credentials that you get from https://developer.spotify.com/ 
 
 NEXTAUTH_URL=http://localhost:3000
-NEXT_PUBLIC_CLIENT_SECRET=5'Put your secret'
-NEXT_PUBLIC_CLIENT_ID='Your Id'
+NEXT_PUBLIC_CLIENT_SECRET= 'Put your secret'
+NEXT_PUBLIC_CLIENT_ID= 'Your Id'
 JWT_SECRET= 'make up some super random value for e.g "987tdafgda76d626fd5fd2f"'
 
 
