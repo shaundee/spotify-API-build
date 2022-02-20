@@ -16,7 +16,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
  
 #Installation
 
-* For the app to function properly you will need to create a .env file within the root directory of the application. 
+* For the app to function properly you will need to clone it and create a .env file within the root directory of the application. 
 * Copy the code below into the .env file but with your own credentials that you get from https://developer.spotify.com/ 
 
 NEXTAUTH_URL=http://localhost:3000
