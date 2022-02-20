@@ -34,7 +34,7 @@ const spotifyApi = useSpotify()
 console.log(playlists)
     return(
   <div className='text-gray-500 text-xs lg:text-sm border-r border-gray-900 overflow-y-scroll 
-  scrollbar-hide h-screen p-3 sm:max-w-[12rem] lg:max-w-[15] hidden md:inline pb-36' >
+  scrollbar-hide h-screen p-3 sm:max-w-[24rem] lg:max-w-[15] pb-36' >
 
     <div className='space-y-4'>
 
